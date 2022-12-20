@@ -23,7 +23,6 @@ td, th {
 border: none!important;}
     </style>
 ```
-
 # پیر نصیر الدین نصیرؔ شاہ
 
 ## غزل
