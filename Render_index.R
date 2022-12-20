@@ -9,11 +9,3 @@ quarto_preview(file = "index.qmd")
 
 quarto_render(input = "index.qmd")
 
-library(renderthis)
-
-renderthis::to_pdf(from = "index.html")
-renderthis::to_gif(from = "index.html")
-renderthis::to_html(from = "index.qmd")
-
-
-

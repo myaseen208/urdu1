@@ -48,3 +48,8 @@ border: none!important;}
 | دِل نصیرؔ اُن کا تھا لے گئے وہ   | غم خدا کی قسم رہ گئے ہیں      |
 |                               |                               |
 |                               | (**پیر نصیر الدین نصیرؔ شاہ**) |
+
+
+```{r echo = FALSE, out.width = '100%'}
+knitr::include_graphics('./images/Ban_Kay_Tasveera_Gham.PNG')
+```
