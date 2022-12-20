@@ -51,5 +51,5 @@ border: none!important;}
 
 
 ```{r echo = FALSE, out.width = '100%'}
-knitr::include_graphics(normalizePath('./images/Ban_Kay_Tasveera_Gham.png'))
+knitr::include_graphics('Ban_Kay_Tasveera_Gham.png')
 ```
